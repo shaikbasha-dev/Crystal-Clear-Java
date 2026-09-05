@@ -1,4 +1,4 @@
-# 🧒 Exception — Definition
+# 🧒 1.2 Exception — Definition
 
 Let's understand **Exception** from the very beginning.
 
